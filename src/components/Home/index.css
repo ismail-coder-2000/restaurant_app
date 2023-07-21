@@ -1,0 +1,6 @@
+.menu-category-container-ul,
+.menu-list-container-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
